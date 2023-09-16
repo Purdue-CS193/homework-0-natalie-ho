@@ -3,3 +3,4 @@
 - Learning how to use Github!
 - having a place to show off my projects
 - getting to know other students (probably) passionate about coding
+  
